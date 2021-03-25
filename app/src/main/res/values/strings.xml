@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="search_hint">Search</string>
+    <string name="todo">TODO</string>
+    <string name="no_data_found">no data available</string>
+    <string name="error_no_internet">No internet connection found</string>
+</resources>
